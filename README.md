@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Aimee
 
 ✨ I’m currently learning React
+
 👯 I’m looking to collaborate on design and Front End
 
 <!--
