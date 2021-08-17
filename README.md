@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Aimee
 
-✨ I’m currently learning React
+✨ I’m currently learning React and Typescript
 
-👯 I’m looking to collaborate on design and Front End
+👯 I’m looking to collaborate on UI/UX design and Front-End Development
 
 <!--
 **aimee-r/aimee-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
