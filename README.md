@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Aimee
+### Hi there, I'm Aimee 
 
 ✨ I’m a Front-End Developer currently building web apps with React, Typescript and Tailwind.
 
-👯 I’m creating beautiful user interface designs using Figma ✨
+🎨 I’m creating beautiful user interface designs using Figma.
 
 <!--
 **aimee-r/aimee-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
